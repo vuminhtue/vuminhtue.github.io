@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>: AI/ML Research Scientist, Research Technology Group, Office of Information Technology, SMU
+subtitle: <a href='#'>Affiliations</a>. AI/ML Research Scientist, Research Technology Group, Office of Information Technology, SMU
 
 profile:
   align: right
