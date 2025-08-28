@@ -2,31 +2,33 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
-    - name: Date of Birth
-      value: 14th March 1879
+      value: Tue Vu
     - name: Languages
-      value: English, German
+      value: English, Vietnamese
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: Master of Science in Data Science
+      institution: Southern Methodist University, Dallas, Texas, USA
+      year: 2025
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
+        - Machine Learning specialization
+        - GenAI
+
+    - title: Ph.D.
+      institution: National University of Singapore, Singapore
+      year: 2012
       description:
-        - Description 1.
-        - Description 2.
+        - Computational Hydro-Climatology
+        - Hydroinformatics
+        
+    - title: Master of Science - Environmental Engineering
+      institution: Stanford University + Nanyang Technological University joint program
+      year: 2007
+      description:
+        - Environmental Informatics
+        
 
 - title: Experience
   type: time_table
