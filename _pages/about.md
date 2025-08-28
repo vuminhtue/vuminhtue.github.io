@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: <a href='#'>Affiliations</a>: AI/ML Research Scientist, Research Technology Group, Office of Information Technology, SMU
 
 profile:
   align: right
@@ -13,8 +13,8 @@ profile:
     <p>Southern Methodist University</p>
     <p>Dallas, TX 75206</p>
 
-news: true # includes a list of news items
-selected_papers: true # includes a list of papers marked as "selected={true}"
+news: false # includes a list of news items
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
